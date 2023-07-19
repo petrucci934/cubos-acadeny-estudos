@@ -1,24 +1,28 @@
-# Exercícios de Variáveis - Módulo 1
-Este repositório contém uma coleção de exercícios de variáveis do Módulo 1 do curso da Cubos Academy. Os exercícios são projetados para ajudar os alunos a praticar e aprimorar seus conhecimentos sobre variáveis em programação.
+![](https://i.imgur.com/xG74tOh.png)
 
-# Estrutura do Repositório
-O repositório está organizado da seguinte forma:
+# Back-end | Variáveis
 
-exercicioX.js: Arquivo contendo o código do primeiro exercício.
+## Exercícios
 
-Como utilizar
-Clone o repositório para o seu ambiente local:
-bash
-Copy code
-git clone https://github.com/seu-usuario/exercicios-variaveis-modulo1-cubos-academy.git
-Abra os arquivos exercicio1.js, exercicio2.js, exercicio3.js, exercicio4.js ou exercicio5.js em um editor de código de sua preferência.
+1.  Calculadora de IMC
+2.  Fahrenheit x Celsius
+3.  Desconto do tênis
+4.  Calcular juros compostos
+5.  Calcular a distância entre dois pontos
+6.  Velocidade média
+7.  Casos de COVID-19
+8.  Calculo do perímetro e área de um círculo
+9.  Soma dos ângulos internos de um polígono
+10. Delta
+11. Volume de uma esfera
+12. Taxa de juros
+13. Área total de um cilindro
 
-## Leia as instruções e resolva os exercícios, escrevendo o código JavaScript necessário.
+Preencha a checklist para fazer os exercícios:
 
-Para testar a solução, você pode executar os arquivos diretamente em um ambiente JavaScript (por exemplo, Node.js) ou copiar e colar o código em um console do navegador.
+-   [ ] Fazer o fork do repositório para sua conta
+-   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
+-   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
+-   [ ] Copiar a url do seu fork e enviar na plataforma
 
-# Contribuindo
-Se você deseja contribuir para este repositório, sinta-se à vontade para abrir um pull request com suas alterações. Serão bem-vindos quaisquer melhorias nos exercícios existentes ou novos exercícios relacionados ao tema.
-
-# Licença
-Este repositório é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações sobre a licença.
+###### tags: `módulo 1` `exercícios` `lógica` `matemática` `nodeJS`
