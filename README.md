@@ -4,18 +4,8 @@ Este repositório contém uma coleção de exercícios de variáveis do Módulo 
 # Estrutura do Repositório
 O repositório está organizado da seguinte forma:
 
-exercicio1.js: Arquivo contendo o código do primeiro exercício.
-exercicio2.js: Arquivo contendo o código do segundo exercício.
-exercicio3.js: Arquivo contendo o código do terceiro exercício.
-exercicio4.js: Arquivo contendo o código do quarto exercício.
-exercicio5.js: Arquivo contendo o código do quinto exercício.
-exercicio6.js: Arquivo contendo o código do primeiro exercício.
-exercicio7.js: Arquivo contendo o código do segundo exercício.
-exercicio8.js: Arquivo contendo o código do terceiro exercício.
-exercicio9.js: Arquivo contendo o código do quarto exercício.
-exercicio10.js: Arquivo contendo o código do quinto exercício.
-exercicio11.js: Arquivo contendo o código do primeiro exercício.
-exercicio12.js: Arquivo contendo o código do segundo exercício.
+exercicioX.js: Arquivo contendo o código do primeiro exercício.
+
 Como utilizar
 Clone o repositório para o seu ambiente local:
 bash
