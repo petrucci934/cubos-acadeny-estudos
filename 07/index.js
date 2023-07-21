@@ -1,9 +1,6 @@
 function calculaInfetados(populacao, transmissao, tempo) {
-  let p = populacao;
-  let x = transmissao;
-  let t = tempo;
-
-  const P = (p * x )/t;
+  const P = Math.pow(populacao * transmissao, tempo / tempo);
   return console.log(P);
 }
 calculaInfetados(1000, 4, 7);
+
