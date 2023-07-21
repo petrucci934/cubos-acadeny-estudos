@@ -1,9 +1,10 @@
 function calculaComprimento(raio) {
   const PI = 3.14;
-  let r = raio;
-  let c = 2 * (PI * r);
-  let area = PI * r ** 2;
+
+  let circunferencia = 2 * (PI * raio);
+  let area = PI * raio ** 2;
   console.log(`A área é de : ${area}`);
-  console.log(`O comprimento é de: ${c}`);
+  console.log(`O comprimento é de: ${circunferencia}`);
 }
 calculaComprimento(1);
+
